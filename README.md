@@ -72,3 +72,4 @@ window.tmpl = function (str, data) {
 };
 ```
 
+已经将此模板集成至Node.js开发框架[Codekart](http://codekart.jojoin.com)，地址https://github.com/myworld4059/Codekart
